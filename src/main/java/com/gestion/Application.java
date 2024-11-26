@@ -12,6 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * and some desktop browsers.
  *
  */
+//jaderrrr
 @SpringBootApplication
 @Theme(value = "Gestion-Tecnico")
 public class Application implements AppShellConfigurator {
